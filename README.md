@@ -33,6 +33,12 @@ JSX
 # <h2>Comparativa de ReactJS con Angular y VueJS en el contexto de un sistema hospitalario</h2>
 <table>
   <tr>
-  <th>React</th><th>Vue</th><th>Angular</th>
+  <th></th><th>React</th><th>Vue</th><th>Angular</th>
+  </tr>
+  <tr>
+    <td>Facilidad de integración</td>
+    <td>Ofrece una gran flexibilidad en cuanto a la integración con otras herramientas. Su naturaleza declarativa y su enfoque en componentes hacen que sea fácil de combinar con diferentes bibliotecas y frameworks. Es altamente compatible con una variedad de bases de datos y APIs REST, lo que facilita la construcción de soluciones personalizadas.</td>
+    <td>Proporciona una estructura más rígida y opiniones sobre cómo construir aplicaciones. Aunque es capaz de integrarse con otras herramientas, puede requerir una mayor configuración inicial.</td>
+    <td>Ofrece un equilibrio entre la flexibilidad de React y la estructura de Angular. Es fácil de aprender y de integrar, pero puede tener menos opciones de terceros en comparación con React.</td>
   </tr>
 </table>
