@@ -17,3 +17,9 @@ Declarativo:
   <li>
 <p>Simplificación: React se encarga de actualizar la interfaz de usuario de manera eficiente cuando los datos subyacentes cambian, lo que reduce la cantidad de código que el desarrollador debe escribir.</p></li>
 </ul>
+Virtual DOM:
+<ul>
+  <li>
+Rendimiento: React crea una representación virtual del DOM (Document Object Model) y solo actualiza los elementos que realmente han cambiado, lo que resulta en un rendimiento superior, especialmente en aplicaciones grandes y complejas.</li>
+ <li>Optimización: Al minimizar las manipulaciones directas del DOM, se reducen los reflujos y re-renderizados innecesarios, lo que mejora la experiencia del usuario.</li>
+</ul>
