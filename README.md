@@ -41,4 +41,17 @@ JSX
     <td>Proporciona una estructura más rígida y opiniones sobre cómo construir aplicaciones. Aunque es capaz de integrarse con otras herramientas, puede requerir una mayor configuración inicial.</td>
     <td>Ofrece un equilibrio entre la flexibilidad de React y la estructura de Angular. Es fácil de aprender y de integrar, pero puede tener menos opciones de terceros en comparación con React.</td>
   </tr>
+  <tr>
+    <td>Manejo del ciclo de vida de los componentes</td>
+     <td>Ofrece un ciclo de vida de los componentes bien definido, lo que permite controlar las diferentes etapas de un componente (montaje, actualización, desmontaje). Esto facilita la gestión de efectos secundarios, la optimización del rendimiento y la creación de componentes reutilizables</td>
+     <td>Tiene un ciclo de vida de los componentes similar a React, pero con algunas diferencias en la terminología y la forma en que se manejan los cambios de detección.</td>
+     <td>Ofrece un ciclo de vida de los componentes muy similar a React, lo que facilita la transición para los desarrolladores que ya conocen React.</td>
+  </tr>
+  <tr>
+    <td>Modularización</td>
+    <td>Fomenta la creación de componentes pequeños y reutilizables, lo que facilita la organización del código y la construcción de aplicaciones complejas. Los componentes pueden ser fácilmente combinados para crear interfaces de usuario más grandes.</td>
+    <td>También promueve la modularización, pero con una estructura más rígida. Los componentes están organizados en módulos, lo que puede ser útil para aplicaciones a gran escala.</td>
+    <td>Ofrece una gran flexibilidad en cuanto a la modularización, permitiendo a los desarrolladores elegir la estructura que mejor se adapte a sus necesidades.
+</td>
+  </tr>
 </table>
