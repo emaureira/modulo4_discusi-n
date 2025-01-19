@@ -12,6 +12,8 @@ Componentes Reutilizables:
     </li>
 </ul>
 Declarativo:
-
-<p>Intuitivo: En lugar de describir cómo cambiar la interfaz, se describe cómo se debería ver. Esto hace que el código sea más legible y fácil de entender.</p>
-<p>Simplificación: React se encarga de actualizar la interfaz de usuario de manera eficiente cuando los datos subyacentes cambian, lo que reduce la cantidad de código que el desarrollador debe escribir.</p>
+<ul>
+<li><p>Intuitivo: En lugar de describir cómo cambiar la interfaz, se describe cómo se debería ver. Esto hace que el código sea más legible y fácil de entender.</p></li>
+  <li>
+<p>Simplificación: React se encarga de actualizar la interfaz de usuario de manera eficiente cuando los datos subyacentes cambian, lo que reduce la cantidad de código que el desarrollador debe escribir.</p></li>
+</ul>
