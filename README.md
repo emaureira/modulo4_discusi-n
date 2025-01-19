@@ -6,3 +6,8 @@ Componentes Reutilizables:
 
 Estructura modular: Cada sección del hospital puede ser construida como un componente independiente. Lo que facilita la organización del código, la reutilización de componentes y la mantenibilidad del proyecto.
 Consistencia visual: Al definir componentes personalizados, se garantiza una apariencia y comportamiento consistente en toda la aplicación, lo que mejora la experiencia del usuario.
+
+Declarativo:
+
+<blockout>Intuitivo: En lugar de describir cómo cambiar la interfaz, se describe cómo se debería ver. Esto hace que el código sea más legible y fácil de entender.
+Simplificación: React se encarga de actualizar la interfaz de usuario de manera eficiente cuando los datos subyacentes cambian, lo que reduce la cantidad de código que el desarrollador debe escribir.</blockout>
